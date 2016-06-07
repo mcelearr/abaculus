@@ -4,10 +4,11 @@ Easy instructions on how to install and run abaculus by getting an example up an
 ## Step 1: Install Node.js
 Google it
 
-## Step 2: Install request and abaculus
-First off you need to make a folder that is going to hold all your node modules, this needs to be called node_modules. Go to the level below that in the command line, then install require and abaculus.
+## Step 2: Install request, require and abaculus
+First off you need to make a folder that is going to hold all your node modules, this needs to be called node_modules. Go to the level below that in the command line, then install require, request and abaculus.
 * https://www.npmjs.com/package/require
 * https://libraries.io/npm/abaculus
+* https://www.npmjs.com/package/request
 
 Follow the instructions and folders should appear in the folder you have called node_modules called require and abaculus.
 
